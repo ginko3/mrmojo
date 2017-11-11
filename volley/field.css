@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 20px auto;
+
+  box-sizing: border-box;
+}
+
+.field {
+  position: relative;
+  justify-self: center;
+  align-self: center;
+
+  box-sizing: border-box;
+  width: 30vw;
+  height: 20vw;
+  /*margin: 0 auto;*/
+
+  background: #bdc3c7;
+}
+
+.container span {
+  justify-self: center;
+  align-self: center;
+}

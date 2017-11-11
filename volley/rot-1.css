@@ -1,0 +1,60 @@
+.rot-1 .p-1 {
+  top: 60%;
+  left: 80%;
+}
+
+.rot-1 .a-1 {
+  top: 10%;
+  left: 80%;
+}
+
+.rot-1 .c-1 {
+  top: 10%;
+  left: 45%;
+}
+
+.rot-1 .p-2 {
+  top: 10%;
+  left: 10%;
+}
+
+.rot-1 .a-2 {
+  top: 60%;
+  left: 10%;
+}
+
+.rot-1 .c-2 {
+  top: 60%;
+  left: 45%;
+}
+
+/* Hover */
+.rot-1:hover .p-1 {
+  top: 55%;
+  left: 65%;
+}
+
+.rot-1:hover .a-1 {
+  top: 30%;
+  left: 85%;
+}
+
+.rot-1:hover .c-1 {
+  top: 5%;
+  left: 80%;
+}
+
+.rot-1:hover .p-2 {
+  top: 0%;
+  left: 75%;
+}
+
+.rot-1:hover .a-2 {
+  top: 50%;
+  left: 10%;
+}
+
+.rot-1:hover .c-2 {
+  top: 60%;
+  left: 40%;
+}
