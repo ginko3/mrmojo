@@ -11,15 +11,15 @@
   transition: .5s;
 }
 
-.player.passeur {
+.passeur {
   background-color: #27ae60;
   border-radius: 50%;
 }
 
-.player.attaquant {
+.attaquant {
   background-color: #e74c3c;
 }
 
-.player.central {
+.central {
   background-color: #f39c12;
 }

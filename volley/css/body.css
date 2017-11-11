@@ -1,0 +1,45 @@
+h1 {
+    font-weight: normal;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.legend {
+    list-style: none;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.legend li {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-start;
+    align-items: center;
+
+    padding-bottom: .5vw;
+}
+
+.legend li div {
+    position: relative;
+    display: block;
+    width: 3vw;
+    height: 3vw;
+    padding: 0;
+}
+
+.legend span {
+    padding: .5vw;
+}
+
+/*
+.legend .player.passeur {
+    grid-row: 1;
+}
+
+.legend .player.attaquant {
+    grid-row: 2;
+}
+
+.legend .player.central {
+    grid-row: 3;
+}*/
