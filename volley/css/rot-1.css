@@ -30,12 +30,12 @@
 
 /* Hover */
 .rot-1:hover .p-1 {
-  top: 55%;
-  left: 65%;
+  top: 60%;
+  left: 60%;
 }
 
 .rot-1:hover .a-1 {
-  top: 30%;
+  top: 40%;
   left: 85%;
 }
 
@@ -50,11 +50,11 @@
 }
 
 .rot-1:hover .a-2 {
-  top: 50%;
+  top: 40%;
   left: 10%;
 }
 
 .rot-1:hover .c-2 {
   top: 60%;
-  left: 40%;
+  left: 35%;
 }
